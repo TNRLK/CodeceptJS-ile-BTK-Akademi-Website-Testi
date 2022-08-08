@@ -1,0 +1,16 @@
+{
+  "name": "btkakademitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.4",
+    "selenium-standalone": "^8.2.0"
+  }
+}
